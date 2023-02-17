@@ -1,0 +1,11 @@
+.trends {
+  width: 69vw;
+  max-width: 1170px;
+  min-width: 837px;
+  height: 33.5vw;
+  max-height: 562px;
+  min-height: 402px;
+  padding-top: 30px;
+  column-gap: 30px;
+  display: flex;
+}

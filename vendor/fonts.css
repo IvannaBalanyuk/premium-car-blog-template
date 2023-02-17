@@ -1,0 +1,26 @@
+/* Подключение шрифтов семейства PT Sans */
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 400;
+  src: url(./fonts/pt-sans/PTSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url(./fonts/pt-sans/PTSans-Italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 600;
+  src: url(./fonts/pt-sans/PTSans-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  font-weight: 600;
+  font-style: italic;
+  src: url(./fonts/pt-sans/PTSans-BoldItalic.ttf) format('truetype');
+}

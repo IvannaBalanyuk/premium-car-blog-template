@@ -1,0 +1,29 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__conteiner/header__conteiner.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__main-menu/header__main-menu.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__link/logo__link.css);
+@import url(../blocks/logo/__brand-name/logo__brand-name.css);
+@import url(../blocks/logo/__category/logo__category.css);
+@import url(../blocks/logo/__category-name/logo__category-name.css);
+@import url(../blocks/logo/__category-name/logo__category-name.css);
+@import url(../blocks/main-menu/main-menu.css);
+@import url(../blocks/main-menu/__links/main-menu__links.css);
+@import url(../blocks/main-menu/__link/main-menu__link.css);
+
+@import url(../blocks/trends/trends.css);
+@import url(../blocks/trends/__top-image/trends__top-image.css);
+@import url(../blocks/trends/__images/trends__images.css);
+@import url(../blocks/trends/__image/trends__image.css);
+
+:root {
+  font-family: 'PT Sans';
+  font-size: 10px;
+  color: black;
+}

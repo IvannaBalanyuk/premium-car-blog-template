@@ -1,0 +1,7 @@
+.header__conteiner {
+  width: 69vw;
+  max-width: 1170px;
+  min-width: 837px;
+  height: 100%;
+  position: relative;
+}

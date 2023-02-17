@@ -1,0 +1,7 @@
+.trends__image {
+  width: calc((100% - 30px) / 2);
+  height: calc((100% - 30px) / 2);
+  object-fit: cover;
+  object-position: center top;
+  border-radius: .3vw;
+}

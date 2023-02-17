@@ -1,0 +1,5 @@
+.header__main-menu {
+  position: absolute;
+  top: 3.4rem;
+  left: calc(50% - 18.4rem);
+}
